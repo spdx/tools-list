@@ -1,0 +1,14 @@
+[
+  {
+    "name": "...",
+    "publisher": "SPDX project",
+    "description": "...",
+    "repoUrl": "...",
+    "websiteUrl": "...",
+    "supportedVersions":"SPDX-2.1, SPDX-2.2"
+    "categories": [
+      "opensource",
+      "library"
+    ]
+  }
+]
